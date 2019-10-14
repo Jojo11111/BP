@@ -15,5 +15,10 @@ BP_NN.py是BP神经网络程序代码
 
 输出接近1的表示属于A类，接近0的属于B类
 
-学习率分别为0.1，0.5，0.9时的训练误差随迭代次数收敛情况
+学习率分别为0.1，0.5，0.9时的训练误差随迭代次数收敛情况：
 
+![image](https://github.com/Jojo11111/BP/blob/master/lr0.1.png)
+
+![image](https://github.com/Jojo11111/BP/blob/master/lr0.5.png)
+
+![image](https://github.com/Jojo11111/BP/blob/master/lr0.9.png)
