@@ -22,3 +22,6 @@ BP_NN.py是BP神经网络程序代码
 ![image](https://github.com/Jojo11111/BP/blob/master/lr0.5.png)
 
 ![image](https://github.com/Jojo11111/BP/blob/master/lr0.9.png)
+
+节点数分别为（2，3，3，1），（2，4，3，1），（2，4，5，1）时训练误差随迭代次数收敛情况：
+
