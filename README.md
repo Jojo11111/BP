@@ -32,3 +32,5 @@ BP_NN.py是BP神经网络程序代码
 ![image](https://github.com/Jojo11111/BP/blob/master/2431.png)
 
 ![image](https://github.com/Jojo11111/BP/blob/master/2451.png)
+
+根据调节节点数参数得到的结果及查阅资料可知，
