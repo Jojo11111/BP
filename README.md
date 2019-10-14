@@ -10,3 +10,5 @@ BP_NN.py是BP神经网络程序代码
 
 
 分类结果：
+
+![image](https://github.com/Jojo11111/BP/blob/master/2019-10-14%2014-51-08%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png)
