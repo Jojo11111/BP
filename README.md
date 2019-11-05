@@ -1,6 +1,6 @@
 # BP
 
-老师不好意思，如果图片无法显示，请前往：https://gitee.com/zhaoguanyi/BP
+老师不好意思，由于一些奇怪的原因，下面的图片可能无法显示，如果图片无法显示，请前往：https://gitee.com/zhaoguanyi/BP
 
 BP_NN.py是含有两个隐藏层的四层BP神经网络程序代码
 
