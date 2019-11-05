@@ -156,7 +156,7 @@ if __name__ == '__main__':
     # 用BP神经网络训练和输出结果
     bp = BP(2, 4, 5, 1)
     plt.figure()
-    bp.train(samples, target, 10000, 0.5)
+    bp.train(samples, target, 10000, 1)
     plt.xlabel("iterations")
     plt.ylabel("error")
     #plt.title("Learning Rate=0.5")
