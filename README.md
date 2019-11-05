@@ -6,7 +6,7 @@ BP_NN.py是含有两个隐藏层的四层BP神经网络程序代码
 
 初始数据分布图：
 
-![image](data.png)
+![image](./data.png)
 
 
 分类结果：
